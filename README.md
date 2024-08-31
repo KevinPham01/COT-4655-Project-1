@@ -1,20 +1,20 @@
 # COT-4655-Lab-1
 
-*Learned to use PHPickerViewController to select photos from the photo library.
+* Learned to use PHPickerViewController to select photos from the photo library.
 
-*Implemented MapKit to display custom annotations on a map.
+* Implemented MapKit to display custom annotations on a map.
 
-*Created a Task data model with properties like title, description, image, and a computed isComplete property.
+* Created a Task data model with properties like title, description, image, and a computed isComplete property.
 
-*Developed UI to view a list of tasks, attach photos, and display photo locations on a map.
+* Developed UI to view a list of tasks, attach photos, and display photo locations on a map.
 
-*Added photo library access authorization and handled errors related to privacy-sensitive data.
+* Added photo library access authorization and handled errors related to privacy-sensitive data.
 
-*Implemented a custom image picker configuration and delegate methods.
+* Implemented a custom image picker configuration and delegate methods.
 
-*Extracted image location metadata and integrated it with map views.
+* Extracted image location metadata and integrated it with map views.
 
-*Created and registered a custom annotation view for displaying photos on the map.
+* Created and registered a custom annotation view for displaying photos on the map.
 
 
 
