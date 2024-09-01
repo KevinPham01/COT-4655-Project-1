@@ -31,12 +31,14 @@ class Task {
 extension Task {
     static var mockedTasks: [Task] {
         return [
-            Task(title: "Pickup flowers from the North Beach Farmers Market 💐",
-                 description: "Try to get an arrangement with a fall vibe. The Urban Vergo floral truck has some great bouquets."),
-            Task(title: "Take Kingsley for a walk 🦮",
-                 description: "Bring treats to encourage him to walk, otherwise be prepared to carry him when he flops."),
-            Task(title: "Grab a fresh candle 🕯",
-                 description: "If you're by the Ferry Building, check out SOMA Small Batch Goods, they have the best candles EVER!!! Their California Morning candle is divine!")
+            Task(title: "Your favorite place to fish 🐟",
+                 description: "Where do you go to be next to the ocean?"),
+            Task(title: "Your favorite car meet spot 🚗",
+                 description: "Where do you go to see cars meet?"),
+            Task(title: "Your favorite place go-to boba shop 🧋",
+                 description: "Where do you go to grab a drink?"),
+            Task(title: "Your favorite place go-to fast-food 🍔",
+                 description: "Where do you go to grab some fast-food?")
         ]
     }
 }

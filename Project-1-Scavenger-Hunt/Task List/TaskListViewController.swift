@@ -10,11 +10,11 @@ import UIKit
 class TaskListViewController: UIViewController {
 
     @IBOutlet weak var tableView: UITableView!
-    @IBOutlet weak var emptyStateLabel: UILabel!
+//    @IBOutlet weak var emptyStateLabel: UILabel!
 
     var tasks = [Task]() {
         didSet {
-            emptyStateLabel.isHidden = !tasks.isEmpty
+//            emptyStateLabel.isHidden = !tasks.isEmpty
             tableView.reloadData()
         }
     }

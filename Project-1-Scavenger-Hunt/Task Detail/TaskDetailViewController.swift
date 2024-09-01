@@ -64,7 +64,7 @@ class TaskDetailViewController: UIViewController {
         attachPhotoButton.isHidden = task.isComplete
         
         // Cant view photo if the task is not done
-        viewPhoto.isHidden = !task.isComplete
+ //       viewPhoto.isHidden = !task.isComplete
     }
     
     @IBAction func didTapAttachPhotoButton(_ sender: Any) {
