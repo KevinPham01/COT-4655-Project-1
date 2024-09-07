@@ -1,20 +1,27 @@
-# COT-4655-Lab-1
+# COT-4655-Project-1
 
-* Learned to use PHPickerViewController to select photos from the photo library.
+* Integrated PHPicker to select photos and retrieve data from the photo library.
+* Utilized MapKit to display custom annotations based on the photo's location.
 
-* Implemented MapKit to display custom annotations on a map.
+Features
 
-* Created a Task data model with properties like title, description, image, and a computed isComplete property.
+Task List Screen
 
-* Developed UI to view a list of tasks, attach photos, and display photo locations on a map.
+* Displayed a list of hardcoded tasks for the user.
+* Enabled navigation to task detail screens by tapping on a task.
+* Visually distinguished completed tasks in the list.
 
-* Added photo library access authorization and handled errors related to privacy-sensitive data.
+Task Detail Screen
 
-* Implemented a custom image picker configuration and delegate methods.
+* Showed the task title, description, and optionally an attached photo.
+* Allowed users to attach a photo to mark a task as completed.
+* Displayed the photo's location on a map using MapKit.
+* Updated the task list with a completion indicator after attaching a photo.
 
-* Extracted image location metadata and integrated it with map views.
+Stretch Features
 
-* Created and registered a custom annotation view for displaying photos on the map.
+* Implemented the option to use the camera to attach photos using UIImagePickerController.
+* Demonstrated an alternative for photo attachments in simulators by manually adding images.
 
 
 
