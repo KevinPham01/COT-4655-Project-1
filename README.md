@@ -24,6 +24,6 @@
 * Demonstrated an alternative for photo attachments in simulators by manually adding images.
 
 
+![COP5930-005Project1-ezgif com-video-to-gif-converter (1)](https://github.com/user-attachments/assets/c017257c-903e-4803-b48c-a913fea09270)
 
-![COP5930-005Project1-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/cfc23d99-0986-4671-93d3-e78b97c1ce7a)
 
